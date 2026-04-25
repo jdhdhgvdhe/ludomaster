@@ -1,0 +1,37 @@
+# Android Build Artifacts
+/build/
+/app/build/
+*.apk
+*.aar
+*.jar
+
+# Gradle
+.gradle/
+/local.properties
+/gradle.properties
+.gradle
+gradle-wrapper.jar
+
+# IDE - Android Studio / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+.navigation/
+
+# Log Files
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Other
+captures/
+.externalNativeBuild/
+.cxx/
+used_ids.txt
+fix_switches.py
+image.png
+LudoMaster_Debug.apk
+LudoMaster_Release.apk
